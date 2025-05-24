@@ -2,7 +2,7 @@
 👋 Hi, I'm **Abdulmoniem M. Elquisany** – a passionate and driven **AI Engineer** and Computer Science student at Nile University, expected to graduate in **June 2025** with a **GPA of 3.72**.<br>
 🧠 I specialize in building and optimizing **intelligent systems** through a blend of AI, machine learning, and mobile development.<br>
 📊 I’ve conducted research, built real-world applications, and trained on various technologies across companies like **Huawei**, **Talaat Mostafa Group**, and **NTG Charity**.<br>
-📄 [📥 Download My CV](https://github.com/abdulmoniem92/abdulmoniem92/blob/main/Abdulmoniem%20Mohamed-CV%20.pdf)  
+📄 [📥 Download My CV]([https://github.com/abdulmoniem92/abdulmoniem92/blob/main/Abdulmoniem%20Mohamed-CV%20.pdf])  
 📧 Email: **abdulmanam1988@gmail.com**
 
 ---
