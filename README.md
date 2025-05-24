@@ -36,10 +36,6 @@
 - HTML5, CSS3, JavaScript
 - Developed front-end interfaces and dynamic user experiences
 
-### 🗃️ Databases & Backend:
-- SQL, Microsoft Access
-- Designed and implemented relational databases for inventory and reservation systems
-
 ### 🛠️ Programming Languages:
 - Python, C, C++, Java, Dart, JavaScript
 
